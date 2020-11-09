@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a68179df-041e-468e-9d12-27af376e5137" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bt-aThao/danhsachsp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt-aThao/layout/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt-aThao/layout/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt-aThao/layout/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt-aThao/layout/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt-aThao/layout/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt-aThao/tinh.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt-aThao/tinh.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/dangky/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="package.json" />
+        <option value="composer.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bt-aThao" />
+  </component>
+  <component name="ProjectId" id="1jthN8VVz8hgnK0LEXwMO7sEVG5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/locds" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/th-locds/images" />
+      <recent name="$PROJECT_DIR$/locds/img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a68179df-041e-468e-9d12-27af376e5137" name="Default Changelist" comment="" />
+      <created>1604629252708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604629252708</updated>
+      <workItem from="1604629253782" duration="2797000" />
+      <workItem from="1604634593021" duration="3239000" />
+      <workItem from="1604644077502" duration="4796000" />
+      <workItem from="1604648957943" duration="8026000" />
+      <workItem from="1604673203347" duration="1004000" />
+      <workItem from="1604712825823" duration="4072000" />
+      <workItem from="1604762538257" duration="602000" />
+      <workItem from="1604841680672" duration="610000" />
+      <workItem from="1604846869746" duration="44000" />
+      <workItem from="1604847347659" duration="2551000" />
+      <workItem from="1604882454157" duration="1563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="199" width="590" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604634994269">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="419" y="199" width="590" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.741@72.27.1294.741" timestamp="1604634994269" />
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604846906443">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1604846906443" />
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1604882512480">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1604882512480" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1604654986232">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1604654986232" />
+    <state x="495" y="38" key="SettingsEditor/72.27.4024.2133@72.27.4024.2133" timestamp="1604654637851" />
+    <state x="383" y="174" key="run.anything.popup" timestamp="1604882724351">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="383" y="174" key="run.anything.popup/72.27.1294.741@72.27.1294.741" timestamp="1604882724351" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1604882543021">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1604882543021" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tong-duong-cheo.php</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
